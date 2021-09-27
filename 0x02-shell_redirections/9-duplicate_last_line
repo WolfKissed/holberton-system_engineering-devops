@@ -1,0 +1,2 @@
+#!/bin/bash
+sed head -n iacta | tail +n iacta
