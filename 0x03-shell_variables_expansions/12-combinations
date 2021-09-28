@@ -1,0 +1,3 @@
+#!/bin/bash
+echo -e "\n" {a..o}{a..n}
+echo -e "\n"{o..z}{p..z}
