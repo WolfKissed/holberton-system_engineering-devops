@@ -1,10 +1,2 @@
 #!/bin/bash
-counter=0
-ans=1
-while [ $power -ne $counter ]
-do
-        ans=`expr $ans \* $no`
-        counter=`expr $counter + 1`
-done
-
-echo "$ans"
+echo $BREATH ** $LOVE
