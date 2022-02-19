@@ -2,5 +2,5 @@
 # Displays a message 10 times
 for i in {0..9}
 do
-	echo Best School
+	echo "Best School"
 done
