@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Displays a message 10 times
-for i in {0..9}
+for (( c=1; c<=10; c++ ))
 do
 	echo "Best School"
 done
